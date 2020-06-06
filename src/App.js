@@ -23,7 +23,7 @@ class App extends React.Component {
 
     this.setState({ data, country: country });
   }
-
+//shoaib work
   render() {
     const { data, country } = this.state;
 
